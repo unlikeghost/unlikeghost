@@ -1,6 +1,6 @@
 # Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Jesus Hernandez and I'm a Biomedical engineer studentd. I'm from Mexico, living in Chihuahua and currently working at Inari Advanced Biomedical solutions as CEO/CTO. You can find me on [![LinkedIn][3.2]][3]
+My name is Jesus Hernandez and I'm a Biomedical engineer student. I'm from Mexico, living in Chihuahua and currently working at Inari Advanced Biomedical solutions as CEO/CTO. You can find me on [![LinkedIn][3.2]][3]
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
